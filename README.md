@@ -1,6 +1,6 @@
-[]()  | 
-------|------
-Row 1 | row 2
+[]()  | []() |
+------|------ |
+Row 1 | row 2 |
 ### Laravel
 |[Laravel Handbook](https://github.com/Nasim-Imtiaz/Laravel)|[Livewire Handbook](https://github.com/Nasim-Imtiaz/Laravel-Livewire)|[MediLife](https://github.com/Nasim-Imtiaz/Laravel-Medilife)|
 
