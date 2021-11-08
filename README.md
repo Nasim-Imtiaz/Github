@@ -1,17 +1,14 @@
+
+### Laravel
 <table>
   <tbody>
     <tr>
-      <td>Key 1</td>
-      <td>Value 1</td>
-    </tr>
-    <tr>
-      <td>Key 2</td>
-      <td>Value 2</td>
+      <td>[Laravel Handbook](https://github.com/Nasim-Imtiaz/Laravel)</td>
+      <td>[Livewire Handbook](https://github.com/Nasim-Imtiaz/Laravel-Livewire)</td>
+      <td>[MediLife](https://github.com/Nasim-Imtiaz/Laravel-Medilife)</td>
     </tr>
   </tbody>
 </table>
-### Laravel
-|[Laravel Handbook](https://github.com/Nasim-Imtiaz/Laravel)|[Livewire Handbook](https://github.com/Nasim-Imtiaz/Laravel-Livewire)|[MediLife](https://github.com/Nasim-Imtiaz/Laravel-Medilife)|
 
 ### NodeJS
 * [Transcoding](https://github.com/Nasim-Imtiaz/Transcoding-NodeJs)
