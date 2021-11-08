@@ -1,7 +1,5 @@
 ### Laravel
-|[Laravel Handbook](https://github.com/Nasim-Imtiaz/Laravel)|
-|[Livewire Handbook](https://github.com/Nasim-Imtiaz/Laravel-Livewire) |
-|[MediLife](https://github.com/Nasim-Imtiaz/Laravel-Medilife)|
+|[Laravel Handbook](https://github.com/Nasim-Imtiaz/Laravel)|[Livewire Handbook](https://github.com/Nasim-Imtiaz/Laravel-Livewire) |[MediLife](https://github.com/Nasim-Imtiaz/Laravel-Medilife)|
 
 ### NodeJS
 * [Transcoding](https://github.com/Nasim-Imtiaz/Transcoding-NodeJs)
