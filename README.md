@@ -4,10 +4,19 @@
 
 ### NodeJS
 * [Transcoding](https://github.com/Nasim-Imtiaz/Transcoding-NodeJs)
+* [BroFood](https://github.com/Nasim-Imtiaz/NodeJs-Brofood)
 * [QRCodeGenerator](https://github.com/Nasim-Imtiaz/QRCodeGenerator)
+* [Puppeteer](https://github.com/Nasim-Imtiaz/NodeJs-Puppeteer)
+* [DrHubTech](https://github.com/Nasim-Imtiaz/DrhubTech)
+* [FileUpload](https://github.com/Nasim-Imtiaz/NodeJs/tree/main/NodeJs-FileUpload)
 
 ### React
 * [React Handbook](https://github.com/Nasim-Imtiaz/React)
+
+### Python
+* [HandBrake](https://github.com/Nasim-Imtiaz/Reddot_HandBrake)
+* [FFMpeg](https://github.com/Nasim-Imtiaz/Reddot_FFmpeg)
+* [Chrome Extension Project](https://github.com/Nasim-Imtiaz/Selenium-Automating-Chrome-Extension-Project)
 
 ### Flutter
 * [Flutter handBook](https://github.com/Nasim-Imtiaz/flutter)
@@ -33,7 +42,11 @@
 ### VSCode
 * [VSCode Shotcuts](https://github.com/Nasim-Imtiaz/VSCode)
 
+### Bootstrap
+* [Bootstrap 4](https://github.com/Nasim-Imtiaz/Bootstrap4)
+
 ### University projects
+* [Thesis](https://github.com/Nasim-Imtiaz/AI-based-Abnormality-Detection-in-Musculoskeletal-Radiographs)
 * [Computer Graphics](https://github.com/Nasim-Imtiaz/CSE_4208_Computer_Graphics_Project)
 
 ### Contest Programming
