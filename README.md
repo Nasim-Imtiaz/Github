@@ -3,7 +3,7 @@
 
 ### Red.Digital Limited
 * [HRIS - Flutter](https://github.com/Nasim-Imtiaz/Red.Digital-HRIS-Flutter)
-* [Binge Webview For RobiApp](https://github.com/Nasim-Imtiaz/WebViewBinge)
+* [Binge Webview - Android](https://github.com/Nasim-Imtiaz/WebViewBinge)
 
 ### Zatiq
 
