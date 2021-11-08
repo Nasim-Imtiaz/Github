@@ -1,6 +1,15 @@
-  |  |
-------|------ |
-Row 1 | row 2 |
+<table>
+  <tbody>
+    <tr>
+      <td>Key 1</td>
+      <td>Value 1</td>
+    </tr>
+    <tr>
+      <td>Key 2</td>
+      <td>Value 2</td>
+    </tr>
+  </tbody>
+</table>
 ### Laravel
 |[Laravel Handbook](https://github.com/Nasim-Imtiaz/Laravel)|[Livewire Handbook](https://github.com/Nasim-Imtiaz/Laravel-Livewire)|[MediLife](https://github.com/Nasim-Imtiaz/Laravel-Medilife)|
 
