@@ -3,9 +3,9 @@
 <table>
   <tbody>
     <tr>
-      <td>[Laravel Handbook](https://github.com/Nasim-Imtiaz/Laravel)</td>
-      <td>[Livewire Handbook](https://github.com/Nasim-Imtiaz/Laravel-Livewire)</td>
-      <td>[MediLife](https://github.com/Nasim-Imtiaz/Laravel-Medilife)</td>
+      <td><a href="https://github.com/Nasim-Imtiaz/Laravel">Laravel Handbook</a></td>
+      <td><a href="https://github.com/Nasim-Imtiaz/Laravel-Livewire">Livewire Handbook</a></td>
+      <td><a href="https://github.com/Nasim-Imtiaz/Laravel-Medilife">MediLife</a></td>
     </tr>
   </tbody>
 </table>
