@@ -1,4 +1,5 @@
 ### Laravel
+* [Laravel Handbook](https://github.com/Nasim-Imtiaz/Laravel)
 * [Livewire Handbook](https://github.com/Nasim-Imtiaz/Laravel-Livewire)
 
 ### Red.Digital Limited
