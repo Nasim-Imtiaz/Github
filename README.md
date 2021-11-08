@@ -1,3 +1,3 @@
 ## Laravel
-* [Laravel Livewire](https://github.com/Nasim-Imtiaz/Laravel-Livewire)
+* [Livewire Handbook](https://github.com/Nasim-Imtiaz/Laravel-Livewire)
 
