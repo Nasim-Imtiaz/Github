@@ -1,10 +1,12 @@
 ### Laravel
 * [Laravel Handbook](https://github.com/Nasim-Imtiaz/Laravel)
 * [Livewire Handbook](https://github.com/Nasim-Imtiaz/Laravel-Livewire)
+* [MediLife](https://github.com/Nasim-Imtiaz/Laravel-Medilife)
 
 ### NodeJS
 * [Transcoding](https://github.com/Nasim-Imtiaz/Transcoding-NodeJs)
 * [BroFood](https://github.com/Nasim-Imtiaz/NodeJs-Brofood)
+* [Natours](https://github.com/Nasim-Imtiaz/NodeJs-Natours)
 * [QRCodeGenerator](https://github.com/Nasim-Imtiaz/QRCodeGenerator)
 * [Puppeteer](https://github.com/Nasim-Imtiaz/NodeJs-Puppeteer)
 * [DrHubTech](https://github.com/Nasim-Imtiaz/DrhubTech)
@@ -33,6 +35,9 @@
 * [I am Rich](https://github.com/Nasim-Imtiaz/i_am_rich_flutter)
 * [Hello World](https://github.com/Nasim-Imtiaz/hello_world_flutter)
 
+### PHP
+* [Simplex](https://github.com/Nasim-Imtiaz/PHP-simplex)
+
 ### Android 
 * [Android Handbook](https://github.com/Nasim-Imtiaz/Android)
 
@@ -48,9 +53,14 @@
 ### University projects
 * [Thesis](https://github.com/Nasim-Imtiaz/AI-based-Abnormality-Detection-in-Musculoskeletal-Radiographs)
 * [Computer Graphics](https://github.com/Nasim-Imtiaz/CSE_4208_Computer_Graphics_Project)
+* [IOS](https://github.com/Nasim-Imtiaz/IOS)
+* [Web Programming](https://github.com/Nasim-Imtiaz/Web_Programming)
 
 ### Contest Programming
 * [leetCode - Solution](https://github.com/Nasim-Imtiaz/LeetCode_problems_solution)
+* [UVA](https://github.com/Nasim-Imtiaz/UVA)
+* [CodeForces](https://github.com/Nasim-Imtiaz/Codeforces)
+* [Algorithms](https://github.com/Nasim-Imtiaz/Algorithms)
 
 ### Red.Digital Limited
 * [HRIS - Flutter](https://github.com/Nasim-Imtiaz/Red.Digital-HRIS-Flutter)
