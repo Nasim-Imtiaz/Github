@@ -148,22 +148,50 @@
 <!-- * [Bootstrap 4](https://github.com/Nasim-Imtiaz/Bootstrap4) -->
 
 ### University projects
-* [Thesis](https://github.com/Nasim-Imtiaz/AI-based-Abnormality-Detection-in-Musculoskeletal-Radiographs)
+<table>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/Nasim-Imtiaz/AI-based-Abnormality-Detection-in-Musculoskeletal-Radiographs">Thesis</a></td>
+      <td><a href="https://github.com/Nasim-Imtiaz/CSE_4208_Computer_Graphics_Project">Computer Graphics</a></td>
+      <td><a href="https://github.com/Nasim-Imtiaz/IOS">IOS</a></td>
+      <td><a href="https://github.com/Nasim-Imtiaz/Web_Programming">Web Programming</a></td>
+    </tr>
+  </tbody>
+</table>
+<!-- * [Thesis](https://github.com/Nasim-Imtiaz/AI-based-Abnormality-Detection-in-Musculoskeletal-Radiographs)
 * [Computer Graphics](https://github.com/Nasim-Imtiaz/CSE_4208_Computer_Graphics_Project)
 * [IOS](https://github.com/Nasim-Imtiaz/IOS)
-* [Web Programming](https://github.com/Nasim-Imtiaz/Web_Programming)
+* [Web Programming](https://github.com/Nasim-Imtiaz/Web_Programming) -->
 
 ### Contest Programming
-* [leetCode - Solution](https://github.com/Nasim-Imtiaz/LeetCode_problems_solution)
+<table>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/Nasim-Imtiaz/LeetCode_problems_solution">LeetCode - Solution</a></td>
+      <td><a href="https://github.com/Nasim-Imtiaz/UVA">UVA</a></td>
+      <td><a href="https://github.com/Nasim-Imtiaz/Codeforces">CodeForces</a></td>
+      <td><a href="https://github.com/Nasim-Imtiaz/Algorithms">Algorithms</a></td>
+    </tr>
+  </tbody>
+</table>
+<!-- * [LeetCode - Solution](https://github.com/Nasim-Imtiaz/LeetCode_problems_solution)
 * [UVA](https://github.com/Nasim-Imtiaz/UVA)
 * [CodeForces](https://github.com/Nasim-Imtiaz/Codeforces)
-* [Algorithms](https://github.com/Nasim-Imtiaz/Algorithms)
+* [Algorithms](https://github.com/Nasim-Imtiaz/Algorithms) -->
 
 ### Red.Digital Limited
-* [HRIS - Flutter](https://github.com/Nasim-Imtiaz/Red.Digital-HRIS-Flutter)
+<table>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/Nasim-Imtiaz/Red.Digital-HRIS-Flutter">HRIS - Flutter</a></td>
+      <td><a href="https://github.com/Nasim-Imtiaz/health_status">Crimson Covid Care - Flutter</a></td>
+      <td><a href="https://github.com/Nasim-Imtiaz/WebViewBinge">Binge Webview - Android</a></td>
+    </tr>
+  </tbody>
+</table>
+<!-- * [HRIS - Flutter](https://github.com/Nasim-Imtiaz/Red.Digital-HRIS-Flutter)
 * [Crimson Covid Care - Flutter](https://github.com/Nasim-Imtiaz/health_status)
-* [Binge Webview - Android](https://github.com/Nasim-Imtiaz/WebViewBinge)
-
+* [Binge Webview - Android](https://github.com/Nasim-Imtiaz/WebViewBinge)-->
 ### Zatiq
 
 
