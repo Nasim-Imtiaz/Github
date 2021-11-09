@@ -4,6 +4,7 @@
   <tbody>
     <tr>
       <td><a href="https://github.com/Nasim-Imtiaz/Laravel">Laravel Handbook</a></td>
+      <td><a href="https://github.com/Nasim-Imtiaz/Laravel_7_Basics">Laravel Hands On</a></td>
       <td><a href="https://github.com/Nasim-Imtiaz/Laravel-Livewire">Livewire Handbook</a></td>
       <td><a href="https://github.com/Nasim-Imtiaz/Laravel-Medilife">MediLife</a></td>
     </tr>
@@ -192,6 +193,7 @@
 <!-- * [HRIS - Flutter](https://github.com/Nasim-Imtiaz/Red.Digital-HRIS-Flutter)
 * [Crimson Covid Care - Flutter](https://github.com/Nasim-Imtiaz/health_status)
 * [Binge Webview - Android](https://github.com/Nasim-Imtiaz/WebViewBinge)-->
+
 ### Zatiq
 
 
