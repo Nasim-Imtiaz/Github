@@ -98,19 +98,54 @@
 * [Hello World](https://github.com/Nasim-Imtiaz/hello_world_flutter) -->
 
 ### PHP
-* [Simplex](https://github.com/Nasim-Imtiaz/PHP-simplex)
+<table>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/Nasim-Imtiaz/PHP-simplex">Simplex</a></td>
+    </tr>
+  </tbody>
+</table>
+<!-- * [Simplex](https://github.com/Nasim-Imtiaz/PHP-simplex) -->
 
 ### Android 
-* [Android Handbook](https://github.com/Nasim-Imtiaz/Android)
+<table>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/Nasim-Imtiaz/Android">Android Handbook</a></td>
+    </tr>
+  </tbody>
+</table>
+<!-- * [Android Handbook](https://github.com/Nasim-Imtiaz/Android) -->
 
 ### Scraping
-* [Amazon](https://github.com/Nasim-Imtiaz/awz)
+<table>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/Nasim-Imtiaz/awz">Amazon</a></td>
+    </tr>
+  </tbody>
+</table>
+<!-- * [Amazon](https://github.com/Nasim-Imtiaz/awz) -->
 
 ### VSCode
-* [VSCode Shotcuts](https://github.com/Nasim-Imtiaz/VSCode)
+<table>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/Nasim-Imtiaz/VSCode">VSCode Shotcuts</a></td>
+    </tr>
+  </tbody>
+</table>
+<!-- * [VSCode Shotcuts](https://github.com/Nasim-Imtiaz/VSCode) -->
 
 ### Bootstrap
-* [Bootstrap 4](https://github.com/Nasim-Imtiaz/Bootstrap4)
+<table>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/Nasim-Imtiaz/Bootstrap4">Bootstrap 4</a></td>
+    </tr>
+  </tbody>
+</table>
+<!-- * [Bootstrap 4](https://github.com/Nasim-Imtiaz/Bootstrap4) -->
 
 ### University projects
 * [Thesis](https://github.com/Nasim-Imtiaz/AI-based-Abnormality-Detection-in-Musculoskeletal-Radiographs)
