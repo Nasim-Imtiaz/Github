@@ -64,6 +64,10 @@
       <td><a href="https://github.com/Nasim-Imtiaz/flutter">Flutter handBook</a></td>
       <td><a href="https://github.com/Nasim-Imtiaz/Reddot_FFmpeg">HRIS</a></td>
       <td><a href="https://github.com/Nasim-Imtiaz/red_track">Binge Music</a></td>
+      <td><a href="https://github.com/Nasim-Imtiaz/health_status">Crimson Covid Care</a></td>
+      <td><a href="https://github.com/Nasim-Imtiaz/face_mask_detection">Face Mask Detection</a></td>
+      <td><a href="https://github.com/Nasim-Imtiaz/quizzler-flutter">Quizzler</a></td>
+      <td><a href="https://github.com/Nasim-Imtiaz/bmi-calculator-flutter">BMI Calculator</a></td>
     </tr>
   </tbody>
 </table>
