@@ -1,3 +1,4 @@
+<body>
 <style>
     table {
         width: 100%;
@@ -13,7 +14,7 @@
     </tr>
   </tbody>
 </table>
-
+</body>
 ### NodeJS
 <table>
   <tbody>
