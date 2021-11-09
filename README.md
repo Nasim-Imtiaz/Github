@@ -3,7 +3,7 @@
 <table>
   <tbody>
     <tr>
-      <td><a href="https://github.com/Nasim-Imtiaz/Laravel">Laravel Handbook</a></td>
+      <td><a href="https://github.com/Nasim-Imtiaz/Laravel" target="_blank">Laravel Handbook</a></td>
       <td><a href="https://github.com/Nasim-Imtiaz/Laravel-Livewire">Livewire Handbook</a></td>
       <td><a href="https://github.com/Nasim-Imtiaz/Laravel-Medilife">MediLife</a></td>
     </tr>
