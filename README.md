@@ -3,6 +3,10 @@
 <table style="width: 100%;">
   <tbody>
     <tr>
+      <td><img width="441px" height="1"></td>
+      <td><img width="441px" height="1"></td>
+    </tr>
+    <tr>
       <td><a href="https://github.com/Nasim-Imtiaz/Laravel">Laravel Handbook</a></td>
       <td><a href="https://github.com/Nasim-Imtiaz/Laravel-Livewire">Livewire Handbook</a></td>
       <td><a href="https://github.com/Nasim-Imtiaz/Laravel-Medilife">MediLife</a></td>
