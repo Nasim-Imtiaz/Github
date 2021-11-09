@@ -1,12 +1,6 @@
-<body>
-<style>
-    table {
-        width: 100%;
-    }
-</style>
-    </body>
+
 ### Laravel
-<table>
+<table style="width: 100%;">
   <tbody>
     <tr>
       <td><a href="https://github.com/Nasim-Imtiaz/Laravel">Laravel Handbook</a></td>
@@ -15,6 +9,7 @@
     </tr>
   </tbody>
 </table>
+
 ### NodeJS
 <table>
   <tbody>
