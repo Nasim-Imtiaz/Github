@@ -4,6 +4,7 @@
         width: 100%;
     }
 </style>
+    </body>
 ### Laravel
 <table>
   <tbody>
@@ -14,7 +15,6 @@
     </tr>
   </tbody>
 </table>
-</body>
 ### NodeJS
 <table>
   <tbody>
