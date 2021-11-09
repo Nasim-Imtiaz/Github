@@ -49,7 +49,7 @@
     <tr>
       <td><a href="https://github.com/Nasim-Imtiaz/Reddot_HandBrake">HandBrake</a></td>
       <td><a href="https://github.com/Nasim-Imtiaz/Reddot_FFmpeg">FFMpeg</a></td>
-      <td><a href="hhttps://github.com/Nasim-Imtiaz/Selenium-Automating-Chrome-Extension-Project">Chrome Extension Project</a></td>
+      <td><a href="https://github.com/Nasim-Imtiaz/Selenium-Automating-Chrome-Extension-Project">Chrome Extension Project</a></td>
     </tr>
   </tbody>
 </table>
