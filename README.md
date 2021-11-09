@@ -3,7 +3,7 @@
 <table>
   <tbody>
     <tr>
-      <td><a href="https://github.com/Nasim-Imtiaz/Laravel" target="_blank">Laravel Handbook</a></td>
+      <td><a href="https://github.com/Nasim-Imtiaz/Laravel">Laravel Handbook</a></td>
       <td><a href="https://github.com/Nasim-Imtiaz/Laravel-Livewire">Livewire Handbook</a></td>
       <td><a href="https://github.com/Nasim-Imtiaz/Laravel-Medilife">MediLife</a></td>
     </tr>
@@ -34,13 +34,29 @@
 * [FileUpload](https://github.com/Nasim-Imtiaz/NodeJs/tree/main/NodeJs-FileUpload) -->
 
 ### React
-* [React Handbook](https://github.com/Nasim-Imtiaz/React)
+<table>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/Nasim-Imtiaz/React">React Handbook</a></td>
+    </tr>
+  </tbody>
+</table>
+<!-- * [React Handbook](https://github.com/Nasim-Imtiaz/React) -->
 
 ### Python
-* [HandBrake](https://github.com/Nasim-Imtiaz/Reddot_HandBrake)
+<table>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/Nasim-Imtiaz/Reddot_HandBrake">HandBrake</a></td>
+      <td><a href="https://github.com/Nasim-Imtiaz/Reddot_FFmpeg">FFMpeg</a></td>
+      <td><a href="hhttps://github.com/Nasim-Imtiaz/Selenium-Automating-Chrome-Extension-Project">Chrome Extension Project</a></td>
+    </tr>
+  </tbody>
+</table>
+<!-- * [HandBrake](https://github.com/Nasim-Imtiaz/Reddot_HandBrake)
 * [FFMpeg](https://github.com/Nasim-Imtiaz/Reddot_FFmpeg)
 * [Chrome Extension Project](https://github.com/Nasim-Imtiaz/Selenium-Automating-Chrome-Extension-Project)
-
+ -->
 ### Flutter
 * [Flutter handBook](https://github.com/Nasim-Imtiaz/flutter)
 * [HRIS](https://github.com/Nasim-Imtiaz/Red.Digital-HRIS-Flutter)
