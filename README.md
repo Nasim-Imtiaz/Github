@@ -19,6 +19,8 @@
       <td><a href="https://github.com/Nasim-Imtiaz/NodeJs-Natours">Natours</a></td>
       <td><a href="https://github.com/Nasim-Imtiaz/QRCodeGenerator">QRCodeGenerator</a></td>
       <td><a href="https://github.com/Nasim-Imtiaz/NodeJs-Puppeteer">Puppeteer</a></td>
+    </tr>
+    <tr>
       <td><a href="https://github.com/Nasim-Imtiaz/DrhubTech">DrHubTech</a></td>
       <td><a href="https://github.com/Nasim-Imtiaz/NodeJs/tree/main/NodeJs-FileUpload">FileUpload</a></td>
     </tr>
@@ -66,8 +68,13 @@
       <td><a href="https://github.com/Nasim-Imtiaz/red_track">Binge Music</a></td>
       <td><a href="https://github.com/Nasim-Imtiaz/health_status">Crimson Covid Care</a></td>
       <td><a href="https://github.com/Nasim-Imtiaz/face_mask_detection">Face Mask Detection</a></td>
+    </tr>
+    <tr>
       <td><a href="https://github.com/Nasim-Imtiaz/quizzler-flutter">Quizzler</a></td>
       <td><a href="https://github.com/Nasim-Imtiaz/bmi-calculator-flutter">BMI Calculator</a></td>
+      <td><a href="https://github.com/Nasim-Imtiaz/dicee-flutter">Dice</a></td>
+      <td><a href="https://github.com/Nasim-Imtiaz/xylophone_flutter">Xylophone</a></td>
+      <td><a href="https://github.com/Nasim-Imtiaz/clima-flutter">Clima</a></td>
     </tr>
   </tbody>
 </table>
