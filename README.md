@@ -1,11 +1,7 @@
 
 ### Laravel
-<table style="width: 100%;">
+<table>
   <tbody>
-    <tr>
-      <td><img width="441px" height="1"></td>
-      <td><img width="441px" height="1"></td>
-    </tr>
     <tr>
       <td><a href="https://github.com/Nasim-Imtiaz/Laravel">Laravel Handbook</a></td>
       <td><a href="https://github.com/Nasim-Imtiaz/Laravel-Livewire">Livewire Handbook</a></td>
@@ -62,10 +58,16 @@
 * [Chrome Extension Project](https://github.com/Nasim-Imtiaz/Selenium-Automating-Chrome-Extension-Project)-->
  
 ### Flutter
-|      Topics      |      Topics      |      Topics      |
-| :--------------: | :--------------: | :--------------: | 
-|     Hi           |      Hi          |      Hi          |
-* [Flutter handBook](https://github.com/Nasim-Imtiaz/flutter)
+<table>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/Nasim-Imtiaz/flutter">Flutter handBook</a></td>
+      <td><a href="https://github.com/Nasim-Imtiaz/Reddot_FFmpeg">HRIS</a></td>
+      <td><a href="https://github.com/Nasim-Imtiaz/red_track">Binge Music</a></td>
+    </tr>
+  </tbody>
+</table>
+<!-- * [Flutter handBook](https://github.com/Nasim-Imtiaz/flutter)
 * [HRIS](https://github.com/Nasim-Imtiaz/Red.Digital-HRIS-Flutter)
 * [Binge Music](https://github.com/Nasim-Imtiaz/red_track)
 * [Crimson Covid Care - Flutter](https://github.com/Nasim-Imtiaz/health_status)
@@ -77,7 +79,7 @@
 * [Clima](https://github.com/Nasim-Imtiaz/clima-flutter)
 * [MI Card](https://github.com/Nasim-Imtiaz/mi_card_flutter)
 * [I am Rich](https://github.com/Nasim-Imtiaz/i_am_rich_flutter)
-* [Hello World](https://github.com/Nasim-Imtiaz/hello_world_flutter)
+* [Hello World](https://github.com/Nasim-Imtiaz/hello_world_flutter) -->
 
 ### PHP
 * [Simplex](https://github.com/Nasim-Imtiaz/PHP-simplex)
