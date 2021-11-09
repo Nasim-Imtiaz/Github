@@ -1,4 +1,8 @@
-
+<style>
+    table {
+        width: 100%;
+    }
+</style>
 ### Laravel
 <table>
   <tbody>
