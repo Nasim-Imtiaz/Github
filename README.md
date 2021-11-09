@@ -76,6 +76,11 @@
       <td><a href="https://github.com/Nasim-Imtiaz/xylophone_flutter">Xylophone</a></td>
       <td><a href="https://github.com/Nasim-Imtiaz/clima-flutter">Clima</a></td>
     </tr>
+    <tr>
+      <td><a href="https://github.com/Nasim-Imtiaz/mi_card_flutter">MI Card</a></td>
+      <td><a href="https://github.com/Nasim-Imtiaz/i_am_rich_flutter">I am Rich</a></td>
+      <td><a href="https://github.com/Nasim-Imtiaz/hello_world_flutter">Hello World</a></td>
+    </tr>
   </tbody>
 </table>
 <!-- * [Flutter handBook](https://github.com/Nasim-Imtiaz/flutter)
